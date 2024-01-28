@@ -1,20 +1,20 @@
 # Image-and-Video-Manipulation
 
-CS5330 - Pattern Recognition and Computer Vision
-Assignment 1
-Image Manipulation Program
+CS5330 - Pattern Recognition and Computer Vision <br>
+Assignment 1 <br>
+Image Manipulation Program <br>
 
-Contributors
-Name : Haritha Selvakumaran
+Contributors <br>
+Name : Haritha Selvakumaran <br>
 
-Video Link
-https://drive.google.com/file/d/1SbZzqYNAO63MQ8H_pXS8nA335XAjZN2g/view?usp=sharing
+Video Link <br>
+https://drive.google.com/file/d/1SbZzqYNAO63MQ8H_pXS8nA335XAjZN2g/view?usp=sharing <br>
 
-Environment
-Operating System: Windows 11 Home x64
-IDE : Visual Studio Code
+Environment <br>
+Operating System: Windows 11 Home x64 <br>
+IDE : Visual Studio Code <br>
 
-Overview:
+Overview: <br>
 This project is about developing an image and video processing and manipulation application 
 using OpenCV along with C++ libraries. The program constantly captures the video in the form of stream
 and works on each frame based on the key pressed by the user. It primarily has a few features such as 
