@@ -15,7 +15,11 @@ Operating System: Windows 11 Home x64 <br>
 IDE : Visual Studio Code <br>
 
 Overview: <br>
-This project is about developing an image and video processing and manipulation application using OpenCV along with C++ libraries. The program constantly captures the video in the form of stream and works on each frame based on the key pressed by the user. It primarily has a few features such as greyscale conversion, sepia filter, Sobel filters, detection of face, etc. There are also a few additional features where the user can choose cartoony filter, paintify filters, texture synthesis filters and embossing effect. In addition, the user can also save the images or videos and as well as convert the video back to its original form. The filter.cpp and filter.h contain all the manipulation functions, while the vidDisplay.cpp is the main file that checks the key pressed and calls the corresponding filters accordingly. The following key press are used for these corresponding function:
+This project encapsulates the development of a robust image and video processing application utilizing OpenCV and C++ libraries. Operating seamlessly in real-time, the program continuously captures video streams and dynamically processes each frame based on user input. Its core functionalities include standard features like greyscale conversion, sepia filters, Sobel filters, and face detection. Additionally, users can choose from an array of creative filters such as cartoony, paintify, texture synthesis, and embossing effects.
+
+The modular structure of the project is organized around filter.cpp and filter.h, housing all manipulation functions, while vidDisplay.cpp serves as the main control hub. The latter detects user key inputs and orchestrates the application of corresponding filters. A notable feature is the ability to save modified images or videos, providing users with the flexibility to revert the video back to its original state.
+
+This project not only showcases technical prowess in image processing but also prioritizes user interaction and creative expression. The interplay of efficient algorithms and an intuitive user interface establishes a versatile tool for visual content manipulation. The combination of real-time processing, diverse filters, and data preservation features makes this application a comprehensive solution for image and video enhancement. The following key press are used for these corresponding function:
 
 g - Grayscale <br>
 h - Alternate Grayscale <br>
